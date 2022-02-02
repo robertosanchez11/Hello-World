@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/msys64/usr/lib/gcc/x86_64-pc-msys/11.2.0/include/c++/tr1"
+                "C:/msys64/usr/lib/gcc/x86_64-pc-msys/11.2.0/include/c++/tr1",
+                "C:\\msys64\\usr\\**"
             ],
             "defines": [
                 "_DEBUG",
