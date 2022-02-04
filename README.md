@@ -1,3 +1,3 @@
-# Hello-World-and-Triangle-Area
+# Hello-World
 
 Just checking if git was working with VSC
